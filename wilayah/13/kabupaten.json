@@ -1,6 +1,78 @@
 [
   {
+    "id": "1301",
+    "name": "Kabupaten Pesisir Selatan"
+  },
+  {
+    "id": "1302",
+    "name": "Kabupaten Solok"
+  },
+  {
+    "id": "1303",
+    "name": "Kabupaten Sijunjung"
+  },
+  {
+    "id": "1304",
+    "name": "Kabupaten Tanah Datar"
+  },
+  {
+    "id": "1305",
+    "name": "Kabupaten Padang Pariaman"
+  },
+  {
     "id": "1306",
     "name": "Kabupaten Agam"
+  },
+  {
+    "id": "1307",
+    "name": "Kabupaten Lima Puluh Kota"
+  },
+  {
+    "id": "1308",
+    "name": "Kabupaten Pasaman"
+  },
+  {
+    "id": "1309",
+    "name": "Kabupaten Kepulauan Mentawai"
+  },
+  {
+    "id": "1310",
+    "name": "Kabupaten Dharmasraya"
+  },
+  {
+    "id": "1311",
+    "name": "Kabupaten Solok Selatan"
+  },
+  {
+    "id": "1312",
+    "name": "Kabupaten Pasaman Barat"
+  },
+  {
+    "id": "1371",
+    "name": "Kota Padang"
+  },
+  {
+    "id": "1372",
+    "name": "Kota Solok"
+  },
+  {
+    "id": "1373",
+    "name": "Kota Sawahlunto"
+  },
+  {
+    "id": "1374",
+    "name": "Kota Padang Panjang"
+  },
+  {
+    "id": "1375",
+    "name": "Kota Bukittinggi"
+  },
+  {
+    "id": "1376",
+    "name": "Kota Payakumbuh"
+  },
+  {
+    "id": "1377",
+    "name": "Kota Pariaman"
   }
 ]
