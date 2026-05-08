@@ -1,7 +1,27 @@
 [
   {
+    "id": "6201022001",
+    "name": "Desa Tanjung Putri",
+    "url": "https://www.tanjungputri.desa.id/"
+  },
+  {
+    "id": "6201022004",
+    "name": "Desa Pasir Panjang",
+    "url": "https://www.pasirpanjang.desa.id/"
+  },
+  {
+    "id": "6201022012",
+    "name": "Desa Runtu",
+    "url": "https://www.runtu.desa.id/"
+  },
+  {
     "id": "6201022016",
     "name": "Desa Natai Raya",
     "url": "https://www.natairaya.desa.id/"
+  },
+  {
+    "id": "6201022018",
+    "name": "Desa Natai Baru",
+    "url": "https://www.nataibaru.desa.id/"
   }
 ]
