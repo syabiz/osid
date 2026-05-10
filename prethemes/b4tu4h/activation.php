@@ -2,7 +2,7 @@
 header('Content-Type: application/json');
 
 // Path file JSON
-$jsonFile = __DIR__ . '/../../data/clients.json';
+$jsonFile = __DIR__ . 'https://raw.githubusercontent.com/syabiz/osid/refs/heads/main/prethemes/b4tu4h/clients.json';
 
 if (!file_exists($jsonFile)) {
     echo json_encode(['errors' => 'System error: data not found']);
