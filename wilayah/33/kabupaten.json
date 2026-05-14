@@ -1,10 +1,142 @@
 [
   {
+    "id": "3301",
+    "name": "Kabupaten Cilacap"
+  },
+  {
+    "id": "3302",
+    "name": "Kabupaten Banyumas"
+  },
+  {
     "id": "3303",
     "name": "Kabupaten Purbalingga"
   },
   {
+    "id": "3304",
+    "name": "Kabupaten Banjarnegara"
+  },
+  {
+    "id": "3305",
+    "name": "Kabupaten Kebumen"
+  },
+  {
+    "id": "3306",
+    "name": "Kabupaten Purworejo"
+  },
+  {
+    "id": "3307",
+    "name": "Kabupaten Wonosobo33.07"
+  },
+  {
+    "id": "3308",
+    "name": "Kabupaten Magelang"
+  },
+  {
+    "id": "3309",
+    "name": "Kabupaten Boyolali"
+  },
+  {
+    "id": "3310",
+    "name": "Kabupaten Klaten"
+  },
+  {
+    "id": "3311",
+    "name": "Kabupaten Sukoharjo"
+  },
+  {
+    "id": "3312",
+    "name": "Kabupaten Wonogiri"
+  },
+  {
+    "id": "3313",
+    "name": "Kabupaten Karanganyar"
+  },
+  {
+    "id": "3314",
+    "name": "Kabupaten Sragen"
+  },
+  {
+    "id": "3315",
+    "name": "Kabupaten Grobogan"
+  },
+  {
+    "id": "3316",
+    "name": "Kabupaten Blora"
+  },
+  {
+    "id": "3317",
+    "name": "Kabupaten Rembang"
+  },
+  {
+    "id": "3318",
+    "name": "Kabupaten Pati"
+  },
+  {
+    "id": "3319",
+    "name": "Kabupaten Kudus"
+  },
+  {
+    "id": "3320",
+    "name": "Kabupaten Jepara"
+  },
+  {
+    "id": "3321",
+    "name": "Kabupaten Demak"
+  },
+  {
+    "id": "3322",
+    "name": "Kabupaten Semarang"
+  },
+  {
+    "id": "3323",
+    "name": "Kabupaten Temanggung"
+  },
+  {
+    "id": "3324",
+    "name": "Kabupaten Kendal"
+  },
+  {
+    "id": "3325",
+    "name": "Kabupaten Batang"
+  },
+  {
+    "id": "3326",
+    "name": "Kabupaten Pekalongan"
+  },
+  {
+    "id": "3327",
+    "name": "Kabupaten Pemalang"
+  },
+  {
     "id": "3328",
     "name": "Kabupaten Tegal"
+  },
+  {
+    "id": "3329",
+    "name": "Kabupaten Brebes"
+  },
+  {
+    "id": "3371",
+    "name": "Kota Magelang"
+  },
+  {
+    "id": "3372",
+    "name": "Kota Surakarta"
+  },
+  {
+    "id": "3373",
+    "name": "Kota Salatiga"
+  },
+  {
+    "id": "3374",
+    "name": "Kota Semarang"
+  },
+  {
+    "id": "3375",
+    "name": "Kota Pekalongan"
+  },
+  {
+    "id": "3376",
+    "name": "Kota Tegal"
   }
 ]
